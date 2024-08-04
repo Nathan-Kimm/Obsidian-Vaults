@@ -8,6 +8,6 @@
 - `The correct answer has to be backed up by specific text in the passage`
 - `If something seems like it's true or could be true, that is a trap answer`
 - `Don't try to be creative and make connections`
-- `Standardized test have to have one correct answer
+- `Standardized test have to have one correct answer`
 - `Also avoid answer choices with extreme words such as always or only`
 
