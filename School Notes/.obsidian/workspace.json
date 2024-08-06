@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c94f2309e6836c72",
+        "id": "e626c2f807c8f4da",
         "type": "tabs",
         "children": [
           {
-            "id": "be2828b2cbb22f7a",
+            "id": "2d997fde6cdbab9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAT/Reading and Writing/Reading and Writing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86ad8f5eae92f2c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAT/Reading and Writing/Reading and Writing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c28224c3b5f114e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main Page.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31066b9c6ddedfd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main Page.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8e2f0afb404826d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Programming Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f86eeb071429323",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAT/Reading and Writing/Vocabulary.md",
+                "file": "SAT/Reading and Writing/Form, Structure, and Sense.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAT/Reading and Writing/Vocabulary.md",
+                "file": "SAT/Reading and Writing/Form, Structure, and Sense.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAT/Reading and Writing/Vocabulary.md",
+                "file": "SAT/Reading and Writing/Form, Structure, and Sense.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAT/Reading and Writing/Vocabulary.md"
+                "file": "SAT/Reading and Writing/Form, Structure, and Sense.md"
               }
             }
           }
@@ -206,32 +145,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f86eeb071429323",
+  "active": "2d997fde6cdbab9d",
   "lastOpenFiles": [
+    "SAT/Reading and Writing/Reading and Writing.md",
+    "SAT/Reading and Writing/Form, Structure, and Sense.md",
+    "SAT/Reading and Writing/Common Mistakes.md",
+    "SAT/Reading and Writing/Transitions.md",
+    "Screenshots/SAT Screenshots/Form, Structure, and Sense Example 1.png",
     "SAT/Reading and Writing/Words In Context.md",
     "SAT/Reading and Writing/Vocabulary.md",
-    "SAT/Reading and Writing/Reading and Writing.md",
+    "Main Page.md",
+    "Programming/Programming Notes.md",
+    "Screenshots/SAT Screenshots/Form, Structure, and Sense Example 7.png",
+    "SAT/Reading and Writing/Central Ideas and Details.md",
+    "Screenshots/SAT Screenshots/Form, Structure, and Sense Example 6.png",
     "Programming/Web Development/Full Stack Open/Notes Page.md",
     "Programming/Web Development/Web Development Notes.md",
-    "Programming/Programming Notes.md",
-    "Main Page.md",
     "SAT/SAT Notes.md",
-    "SAT/Reading and Writing/Form, Structure, and Sense.md",
     "Screenshots/SAT Screenshots/Form, Structure, and Sense Example 5.png",
     "Screenshots/SAT Screenshots/Vocabulary in Context Example.png",
     "Screenshots/SAT Screenshots/Form, Structure, and Sense Example 4.png",
     "Screenshots/SAT Screenshots/Form, Structure, and Sense Example 3.png",
-    "Screenshots/SAT Screenshots/Form, Structure, and Sense Example 1.png",
     "Screenshots/SAT Screenshots/Central Idea Example 1 Answer Choices.png",
     "Screenshots/SAT Screenshots/Central Ideas Example 1.png",
     "Screenshots/SAT Screenshots/Form Structure and Sense Example 2.png",
-    "Screenshots/SAT Screenshots/SAT Transition Example 1.png",
     "Programming/Web Development/Full Stack Open",
     "Programming/Web Development",
     "Programming",
-    "SAT/Reading and Writing/Transitions.md",
-    "SAT/Reading and Writing/Central Ideas and Details.md",
-    "SAT/Reading and Writing/Common Mistakes.md",
     "SAT/Practice Review/Practice Review.md",
     "SAT/Practice Review/Practice 1.md",
     "Untitled.canvas",
