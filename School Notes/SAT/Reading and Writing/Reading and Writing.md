@@ -1,4 +1,4 @@
-* [[Boundaries]]
+-  [[Boundaries]]
 * [[Command Of Evidence - Quantitative]]
 * [[Command Of Evidence - Textual]]
 * [[Cross-Text Connections]]

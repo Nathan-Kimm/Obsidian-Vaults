@@ -34,7 +34,7 @@
 	`In fact demonstrates how they like jazz music so much that they even enrolled in a jazz guitar class.`
 ### Example Problems:
 
-	![[Screenshot 2024-08-05 at 10.06.33 AM.png]]
+	![[SAT Transition Example 1.png]]
 		`In this question, the previous sentence demonstrates how a study showed subtle shifts in animal behaviors. The sentence that follows then shows a more serious example with more recent analysis. In this case, more importantly should be used since the setence shows a more serious example.`
 
 		- A cannot be correct as the sentence doesn't have an example of          the previous sentence
