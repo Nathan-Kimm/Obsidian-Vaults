@@ -123,8 +123,110 @@
 # Tenses
 - Has (Verbed) is the present perfect tense and is typically used for actions that began in the past and have continued to the present or has relevance to the present
 - Had (Verbed) is the past perfect tense and is typically used to describe actions that were completed before another action in the past.
-# Examples
 
+
+# Clauses
+- *He was tired.* = Main Clause/Independent 
+- *Because he was tired* = Dependent clause
+
+- A clause has a noun subject and a verb
+- The examples above are both clauses
+- **Dependent Clause = Subordinate Clause**
+	- *Because he was tired, he didn't come with us to the movie.*
+
+1. Independent Clause + Dependent Clause = Sentence
+		`The varsity team lost its first game of the season, since the star player was sick.`
+2. Dependent Clause + Independent Clause = Sentence
+		`Because the snow season still had not ended, the first game of the season was postponed.`
+3.  Dependent Clause + Dependent Clause = Not a sentence
+		`Since Mike injured himself last, because he didn't stretch.`
+4. Independent Clause + Independent Clause = Sentence
+		`The team practiced before the big game, they won easily.` 
+		(Comma Splice)
+5. Independent Clause + Conjunction + Independent Clause = Sentence
+		`The team practiced before the big game, so they won easily.`
+6. Conjunction + Independent clause = Dependent/Subordinate clause
+		`Because + he was tired = Dependent/Subordinate Clause`
+		
+# Subordinating Conjunctions
+1. Provides a reason: because, since, due to, as a result
+	`Since she is so over Katy Perry, she is not going to the concert.`
+2. Provides a time: when, whenever
+	`Whenever I open the refrigerator, I suddenly get hungry.`
+3. Provides a condition: if
+	`If I finish my homework early, I'll go watch the game.`
+4. Contrast: whereas
+	`Sarah was a star athlete, whereas her sister, Maggie, would rather not get up off the couch.`
+
+
+# Coordinating Conjunctions
+***FANBOYS***
+	**For**
+	**And**
+	**Nor**
+	**But**
+	**Or**
+	**Yet**
+	**So**
+***When to use Commas (With Coordinating Conjunctions)* 
+- For separating two independent clauses with a coordinating conjunction.
+	- `He was captain of the varsity basketball team, and he enjoyed practicing lay-ups and crossover dribbles in his spare time.`
+- For lists
+		- `He was captain of the varsity basketball team, and he enjoyed practicing. lay-ups, crossover dribbles, and jumping exercises in his free time. 
+***When not to use Commas (With Coordinating Conjunctions)***
+- When there is no subject
+	- `He neither finds sports for fun nor thinks exercising is important.`
+- Relative Clause A + Relative Clause B
+	- `When trying out for a sport, you should make sure that you are somewhat adept in the sport and that you enjoy practicing it for hours and hours.`
+***What is the difference between Coordinating Conjunctions and Subordinating Conjunctions?***
+	`To show that one clause is more important than the other`
+		`He doesn't like chocolate but he does like Vanilla.`
+		`Though he doesn't like dessert, he does like pizza.`
+
+
+# Adverbs
+### Conjunctive Adverbs: 
+- ***Cause and Effect***
+	- `Consequently, therefore, hence, thus, as a result`
+- ***Contrast***
+	- `However, nevertheless, nonetheless, yet, though, but, even so`
+- ***Similarity***
+	- `In addition to, besides, moreover, likewise`
+These adverbs are different from conjunctions because they cannot be used with a comma to separate two independent clauses.
+
+**Incorrect:** `He trained for the big meet, consequently, he did well.`
+**Correct:** `He trained for the big meet. Consequently, he did well.`
+
+**Correct:** `He trained intensely for the big meet, and he did well`
+**Incorrect:** `He trained intensely for the big meet, therefore he did well.` (Comma splice)
+**Also Correct:** He trained intensely for the big meet; therefore, he did well.
+
+**Correct:** `Teresa's weakest event was the javelin throw. Therefore, she focused on her core muscles and arm strength.`
+**Also Correct:** `Teresa's weakest event was the javelin throw, so she focused on her core muscles and arm strength.`
+
+
+# Parallelism
+**Lists**:
+- **Incorrect**: `She likes to swim, run, and tennis` (verb, verb, noun)
+- **Correct**: `She like to swim, run, and play tennis` (verb, verb, verb)`
+
+- **Incorrect**: `Myra is very busy, taking part in speech and debate tournaments, juggling four AP classes, and performs piano concertos`
+- **Correct**: `Myra is very busy, taking part in speech and debate tournaments, juggling four AP classees, and performing piano concertos`
+
+- **Incorrect**: `The College Admissions process can be daunting for many students because of the number of forms and essays required, the difficulty of securing glowing letters of recommendation, and it simply takes a lot of time`
+- **Correct**: `The College Admissions process can be daunting for many students because of the number of forms and essays required, the difficulty of securing glowing letters of recommendation, and the sheer amount of time necessary.`
+
+**Parallelism Conjunctions:
+- `Not only... but also`
+- `Both A and B`
+- `Neither X nor Y`
+
+	*Examples*
+	- Correct: `Mason was both tired and frustrated`
+	- Incorrect: `Mason was bothh tired as well as frustrated.`
+		- ***Needs to be both and then an and
+
+# Examples
 - ![[Form, Structure, and Sense Example 4.png]]
 	- `"This Grassroot effort is the noun phrase that it modifies. Since "grassroot effort" is a singular phrase, "its" is the correct singular possessive determiner. This indicates that Roosevelt was the most influential champion on the effort.`
 - ![[Form, Structure, and Sense Example 5.png]]
