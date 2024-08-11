@@ -3,7 +3,7 @@
 - **Scientific Evidence**: Hypothesis is presented about a subject in science or social science.
 
 
-# Command of Evidence Question Approach
+# Command of Evidence Textual Question Approach
 1. `Read the entire paragraph`
 2. `Identify the claim/argument`
 3. `Identify the evidence used to support the argument`
