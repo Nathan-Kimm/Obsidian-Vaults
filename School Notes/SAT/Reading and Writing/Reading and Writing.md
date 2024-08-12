@@ -8,6 +8,7 @@
 * [[Form, Structure, and Sense]]
 * [[Text Structure and Purpose]]
 * [[Words In Context]]
+* [[Rhetorical Synthesis]]
 * [[Overall Strategies]]
 * [[Common Mistakes]]
 * [[Vocabulary]]

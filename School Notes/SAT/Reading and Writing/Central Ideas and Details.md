@@ -23,3 +23,7 @@ Examples:
 
 - ![[Central Ideas and Details Example 3.png]]
 	- `Although the text shows that the main character doesn't know how to exactly act about the man, there is no explicit mention of the man being dangerous. The passage saying "But the daring and magnitism of the individual" shows that the character is drawn to the man.`
+
+
+-  ![[Central Ideas Example 2.png]]
+	`In this question, although the passage never mentions either Sister Teresa or Miss Jennings to have been to Canada before. It cannot be assumed that they have never visited Canada. Answer Choice C is completely correct as Miss Jennings is a nurse tending to a Canadian officer while Sister Teresa is a nun.`
