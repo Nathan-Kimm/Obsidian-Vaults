@@ -21,9 +21,13 @@ Examples:
 	`D cannot be the answer as although the new technology might revolution archaeology. It is not exactly the main idea of the passage and more of an assumption.
 
 
-- ![[Central Ideas and Details Example 3.png]]
+- ![[Screenshots/SAT Screenshots/Central Ideas and Details Example 3.png]]
 	- `Although the text shows that the main character doesn't know how to exactly act about the man, there is no explicit mention of the man being dangerous. The passage saying "But the daring and magnitism of the individual" shows that the character is drawn to the man.`
 
 
 -  ![[Central Ideas Example 2.png]]
 	`In this question, although the passage never mentions either Sister Teresa or Miss Jennings to have been to Canada before. It cannot be assumed that they have never visited Canada. Answer Choice C is completely correct as Miss Jennings is a nurse tending to a Canadian officer while Sister Teresa is a nun.`
+
+
+- ![[Central Ideas and Details Example 3 1.png]]
+	`Answer choice A is incorrect as although Douglass mentions the dislike for slavery, there is no mention of his memory and is therefore irrelevant. Answer chioce D however best represents the main idea.`

@@ -32,3 +32,8 @@
 # Examples
 - ![[Command of Evidence Textual Example 1.png]]
 	- `Although B shows the influence of Chance on significant events in the lives of the audience, it doesn't reference the audence in the present moment viewing the play. Answer Choice C however shows that it is because of Chance's influence that the audience is at the play today.`
+
+
+
+- ![[COE Textual Example 2.png]]
+	`For this question, answer choice B and C are very similar as both show another explanation. However, answer choice C more offers an alternate explanation while answer choice B more disproves their hypothesis. Therefore, answer choice B is correct.`

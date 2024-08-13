@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Screenshots/SAT Screenshots/Central Ideas Example 2.png"
+                "file": "Screenshots/SAT Screenshots/Words in Context Example 6.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Screenshots/SAT Screenshots/Central Ideas Example 2.png",
+                "file": "Screenshots/SAT Screenshots/Words in Context Example 6.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Screenshots/SAT Screenshots/Central Ideas Example 2.png",
+                "file": "Screenshots/SAT Screenshots/Words in Context Example 6.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Screenshots/SAT Screenshots/Central Ideas Example 2.png"
+                "file": "Screenshots/SAT Screenshots/Words in Context Example 6.png"
               }
             }
           }
@@ -146,32 +146,33 @@
   },
   "active": "ad8c51120b525425",
   "lastOpenFiles": [
-    "SAT/Reading and Writing/Central Ideas and Details.md",
-    "Screenshots/SAT Screenshots/Central Ideas Example 2.png",
-    "SAT/Reading and Writing/Rhetorical Synthesis.md",
-    "Screenshots/SAT Screenshots/Rhetorical Synthesis Example 2.png",
-    "Screenshots/SAT Screenshots/Words in Context Example 1.png",
-    "SAT/Reading and Writing/Words In Context.md",
-    "Screenshots/SAT Screenshots/Rhetorical Synthesis Example 1.png",
-    "Screenshots/SAT Screenshots/Main Idea Example Passage.png",
-    "Screenshots/SAT Screenshots/Main Idea Example Questions.png",
-    "SAT/Reading and Writing/Reading and Writing.md",
-    "SAT/Reading and Writing/Text Structure and Purpose.md",
-    "SAT/Reading and Writing/Transitions.md",
-    "SAT/Reading and Writing/Cross-Text Connections.md",
-    "Screenshots/SAT Screenshots/Cross Text Connections Example Answer.png",
-    "Screenshots/SAT Screenshots/Cross-Text Connections Example T2.png",
-    "Screenshots/SAT Screenshots/Cross-Text Connections Example T1.png",
-    "Screenshots/SAT Screenshots/Text Structure and Purpose Example Passage.png",
-    "SAT/Reading and Writing/Command Of Evidence - Quantitative.md",
+    "Screenshots/SAT Screenshots/Words in Context Example 5.png",
+    "Screenshots/SAT Screenshots/Inference Example 2.png",
+    "Screenshots/SAT Screenshots/COE Textual Example 2.png",
     "SAT/Reading and Writing/Command Of Evidence - Textual.md",
+    "SAT/Reading and Writing/Command Of Evidence - Quantitative.md",
+    "SAT/Reading and Writing/Cross-Text Connections.md",
     "SAT/Reading and Writing/Form, Structure, and Sense.md",
+    "SAT/Reading and Writing/Inference.md",
+    "SAT/Reading and Writing/Text Structure and Purpose.md",
+    "Screenshots/SAT Screenshots/Text Structure and Purpose Example 4.png",
+    "Screenshots/SAT Screenshots/Words in Context Example 4.png",
+    "Screenshots/SAT Screenshots/Words in Context Example 3.png",
+    "Screenshots/SAT Screenshots/Words in Context Example 2.png",
+    "Screenshots/SAT Screenshots/Inference Example 1.png",
+    "SAT/Reading and Writing/Reading and Writing.md",
+    "SAT/Reading and Writing/Rhetorical Synthesis.md",
+    "Screenshots/SAT Screenshots/Central Ideas and Details Example 3 1.png",
+    "SAT/Reading and Writing/Central Ideas and Details.md",
+    "Screenshots/SAT Screenshots/Text Structure and Purpose Example 3.png",
+    "Screenshots/SAT Screenshots/Text Structure and Purpose Example 2 1.png",
+    "SAT/Reading and Writing/Words In Context.md",
+    "SAT/Reading and Writing/Transitions.md",
     "SAT/Practice Review/Olivebook Practice 1.md",
     "SAT/Practice Review/Practice Review.md",
     "Screenshots/SAT Screenshots/Olivebook Practice/Test 1",
     "Screenshots/SAT Screenshots/Olivebook Practice",
     "SAT/Reading and Writing/Vocabulary.md",
-    "SAT/Reading and Writing/Inference.md",
     "Programming/Web Development/Full Stack Open/Notes Page.md",
     "Web Development.md",
     "Programming/Programming Notes.md",
