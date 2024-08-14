@@ -10,7 +10,7 @@
 - ![[Words in Context Example 1.png]]
 	`In this question, although answer choices A, B, and C all have similar meanings. Answer choice C works the best because the passage never mentions that Simon stood abruptly. Instead, it shows that he has an expression of gentleness and therefore gently waking up to greet the author would make the most sense.`
 
-- ![[Screenshots/SAT Screenshots/Words in Context Example 2.png]]
+- ![[Words in Context Example 2.png]]
 	`In this passage, backlash kind of has a negative connotation. Response has a little too neutral of a connotation and therefore does not work.`
 
 

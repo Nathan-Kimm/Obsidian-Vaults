@@ -21,7 +21,7 @@ Examples:
 	`D cannot be the answer as although the new technology might revolution archaeology. It is not exactly the main idea of the passage and more of an assumption.
 
 
-- ![[Screenshots/SAT Screenshots/Central Ideas and Details Example 3.png]]
+- ![[Central Ideas and Details Example 3.png]]
 	- `Although the text shows that the main character doesn't know how to exactly act about the man, there is no explicit mention of the man being dangerous. The passage saying "But the daring and magnitism of the individual" shows that the character is drawn to the man.`
 
 

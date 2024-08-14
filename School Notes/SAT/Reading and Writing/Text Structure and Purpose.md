@@ -62,7 +62,7 @@
 
 
 # Examples
-- ![[Screenshots/SAT Screenshots/Text Structure and Purpose Example 2.png]]
+- ![[Text Structure and Purpose Example 2.png]]
 	`Answer Choice B is not correct as it never mentions the man's confidence. Although the passage does mention that he ignored advice, that does not necessarily mean that the man was confident. Instead Answer Choice D most fits the passage as it shows the man's harsh conditions as well as how he underestimated the dangers as he ignored the advice. `
 
 
