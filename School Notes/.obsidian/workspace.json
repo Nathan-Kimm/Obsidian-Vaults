@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "afe57ea7c88eab63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SAT/Math/Math.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0ae70142f35d7c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SAT/Math/Trigonometry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAT/Practice Review/Olivebook Practice 2.md",
+                "file": "SAT/Math/Trigonometry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAT/Practice Review/Olivebook Practice 2.md",
+                "file": "SAT/Math/Trigonometry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAT/Practice Review/Olivebook Practice 2.md"
+                "file": "SAT/Math/Trigonometry.md"
               }
             }
           }
@@ -148,52 +173,51 @@
   },
   "active": "ad8c51120b525425",
   "lastOpenFiles": [
-    "Screenshots/SAT Screenshots/Olivebook Practice/Test 2/Olivebook T2Q15 M M2.png",
-    "Screenshots/SAT Screenshots/Olivebook Practice/Test 2/Olivebook T2Q12 M M2.png",
-    "Screenshots/SAT Screenshots/Olivebook Practice/Test 2/Olivebook T2Q8 M M2.png",
-    "Screenshots/SAT Screenshots/Olivebook Practice/Test 2/Olivebook T2Q17 M M1.png",
-    "Screenshots/SAT Screenshots/Olivebook Practice/Test 2/Olivebook T2Q17 RW M2.png",
-    "Screenshots/SAT Screenshots/Olivebook Practice/Test 2/Olivebook T2Q19 M M1.png",
+    "Screenshots/SAT Screenshots/Math Notes",
+    "Screenshots/SAT Screenshots/Math Notes/Trigonometry Example 1.png",
+    "SAT/Math/Math.md",
+    "SAT/Math/Trigonometry.md",
+    "SAT/Reading and Writing/Form, Structure, and Sense.md",
+    "Screenshots/SAT Screenshots/Reading Writing Notes/Form, Structure, and Sense Example 8.png",
+    "SAT/Reading and Writing/Words In Context.md",
+    "Screenshots/SAT Screenshots/Reading Writing Notes/Words in Context Example 11.png",
+    "Screenshots/SAT Screenshots/Reading Writing Notes/Words in Context Example 10.png",
+    "Screenshots/SAT Screenshots/Reading Writing Notes/Words in Context Example 9.png",
+    "SAT/Reading and Writing/Inference.md",
+    "Screenshots/SAT Screenshots/Reading Writing Notes/Inference Example 3.png",
+    "SAT/Reading and Writing/Command Of Evidence - Textual.md",
+    "Screenshots/SAT Screenshots/Reading Writing Notes/COE Textual Example 4.png",
+    "Programming/Programming Notes.md",
+    "Programming/Web Development/Web Development Notes.md",
+    "Programming/ML and AI",
+    "Programming/Web Development/Full Stack Open/Notes Page.md",
+    "Web Development.md",
+    "Screenshots/SAT Screenshots/Reading Writing Notes/Words in Context Example 8.png",
+    "SAT/Reading and Writing/Cross-Text Connections.md",
+    "Screenshots/SAT Screenshots/Reading Writing Notes/Cross Text Connections Example 2.png",
+    "Screenshots/SAT Screenshots/Reading Writing Notes/Words in Context Example 7.png",
+    "SAT/Reading and Writing/Boundaries.md",
+    "SAT/Reading and Writing/Central Ideas and Details.md",
+    "SAT/SAT Notes.md",
+    "SAT/Practice Review/Olivebook Practice 4.md",
     "SAT/Practice Review/Olivebook Practice 2.md",
+    "Screenshots/SAT Screenshots/Olivebook Practice/Test 4",
     "Screenshots/SAT Screenshots/Olivebook Practice/Test 2",
-    "Screenshots/SAT Screenshots/Olivebook Practice/Test 2/Olivebook T2Q11 RW M2.png",
     "SAT/Practice Review/Olivebook Practice 1.md",
     "SAT/Practice Review/Practice Review.md",
     "SAT/Reading and Writing/Reading and Writing.md",
-    "Untitled.md",
-    "Screenshots/SAT Screenshots/Olivebook Practice/Test 1/Olivebook T1Q20 M M2.png",
     "Screenshots/SAT Screenshots/Reading Writing Notes",
-    "Screenshots/SAT Screenshots/Olivebook Practice/Test 1/Olivebook T1Q6 M M1.png",
-    "Screenshots/SAT Screenshots/Olivebook Practice/Test 1/Olivebook T1Q14 M M2.png",
-    "Screenshots/SAT Screenshots/Olivebook Practice/Test 1/Olivebook T1Q17 RW M2.png",
-    "SAT/Reading and Writing/Cross-Text Connections.md",
-    "SAT/Reading and Writing/Command Of Evidence - Textual.md",
     "SAT/Reading and Writing/Command Of Evidence - Quantitative.md",
-    "SAT/Reading and Writing/Form, Structure, and Sense.md",
-    "SAT/Reading and Writing/Inference.md",
     "SAT/Reading and Writing/Text Structure and Purpose.md",
     "SAT/Reading and Writing/Rhetorical Synthesis.md",
-    "SAT/Reading and Writing/Central Ideas and Details.md",
-    "SAT/Reading and Writing/Words In Context.md",
     "SAT/Reading and Writing/Transitions.md",
     "Screenshots/SAT Screenshots/Olivebook Practice/Test 1",
     "Screenshots/SAT Screenshots/Olivebook Practice",
     "SAT/Reading and Writing/Vocabulary.md",
-    "Programming/Web Development/Full Stack Open/Notes Page.md",
-    "Web Development.md",
-    "Programming/Programming Notes.md",
     "SAT/Reading and Writing/Common Mistakes.md",
-    "Programming/Web Development/Web Development Notes.md",
-    "SAT/Reading and Writing/Boundaries.md",
-    "Main Page.md",
-    "SAT/SAT Notes.md",
     "Programming/Web Development/Full Stack Open",
     "Programming/Web Development",
     "Programming",
-    "SAT/Practice Review/Practice 1.md",
-    "Untitled.canvas",
-    "Screenshots/SAT Screenshots",
-    "SAT/Practice Review",
-    "SAT/Math"
+    "Untitled.canvas"
   ]
 }

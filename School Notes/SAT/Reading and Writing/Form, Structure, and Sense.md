@@ -235,3 +235,6 @@ These adverbs are different from conjunctions because they cannot be used with a
 	- `The subject in this sentence is the group of hydrologists. Therefore, the verb must also be plural to agree with the plural subject. "Have Demonstrated" is the correct plural present perfect tense. Present perfect tense is used when an event occured at an unknown time.`
 - ![[Form, Structure, and Sense Example 7.png]]
 		- `Although "has made" might make sense, it is not the best choice because of the specific time reference (by its 30th anniversary in 2020). In this case the past perfect tense should be used "had made" because Hubble making more than 1.3 million observations happened before its 30th anniversary.`
+
+- ![[Form, Structure, and Sense Example 8.png]]
+	`In this question, the subject is "Geese flying in an aerodynamic V-formation" this subject is plural and therefore should match the plural verb of "provide." The subject is plural as it refers to multiple geese. `

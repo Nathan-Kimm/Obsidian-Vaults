@@ -70,5 +70,10 @@
 	- `In this sentence, the dash used in answer choice A redefines the First Asiatic Zoological Expedition. In this case a dash is acceptable. Choice D is mostly correct except for the word being. For the SAT when you see a word such as being or any -ing words, see if replacing it with "which" or nothing at all makese sense. If it does, then the answer choice is wrong.`
 - ![[Boundaries Example 2.png]]
 	- `Remember that yet is a coordinating conjunction (FANBOYS). Therefore, doing ",yet" would correctly seperate the two independent clauses.`
+
 - ![[Boundaries Example 3.png]]
 	- `Remember about the use of complex series. A complex series is the punctuation of items with internal punctuation like commas In this sentence, semicolons are used to seperate the items in the list. Although it might not look right to do "; and" make sure to look for a complex list.`
+
+- ![[Boundaries Example 4.png]]
+	`A clause starting with since is not an independent clause and therefore a semi colon cannot be used. A comma should be used instead as it seperates the main clause from the supplementary clause. The main clause is "However, the original purpose of the brass studs was practical" The clause that comes after practical is supplmentary and is adding on. 
+

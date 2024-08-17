@@ -4,3 +4,6 @@
 
 - ![[Inference Example 2.png]]
 	`This passage mentions nothing about the destruction of permanent settlemnts and therefore answer chioce C cannot be correct. However, answer Choice D works best as it aligns best with what the passage was saying previously.`
+
+- ![[Inference Example 3.png]]
+	`Answer choice c is not correct as the passage also emphasizes the role of rising nationalism. Answer choice C would overlook this.`

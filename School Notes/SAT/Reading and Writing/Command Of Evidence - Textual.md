@@ -37,3 +37,10 @@
 
 - ![[COE Textual Example 2.png]]
 	`For this question, answer choice B and C are very similar as both show another explanation. However, answer choice C more offers an alternate explanation while answer choice B more disproves their hypothesis. Therefore, answer choice B is correct.`
+
+
+- ![[COE Textual Example 3.png]]
+	`The question wants a quotation that shows how free imagination can be. Answer choice C works best for this question as "Leaving the rolling universe behind" metaphorically captures the notion of escpaing the physical and social restrictions. Although answer choice D does illustrate the expansiveness of imagination, the quotation talks more about exploring the vast universe over talking about the mental liberation from life's constraints.`
+
+- ![[COE Textual Example 4.png]]
+	`The passage needs a quotation that shows unfairness as well as Achilles' decision to cease fighting. Answer chioce C partially covers this as it shows how unfair it is but doesn't demonstrate the fight stopping. Therefore answer choice A would make the most sense as it shows Achilles withdrawing the fight and shows how unfair it is by saying "brimming your cup and piling up your plunder"`

@@ -31,3 +31,7 @@ Examples:
 
 - ![[Central Ideas and Details Example 3 1.png]]
 	`Answer choice A is incorrect as although Douglass mentions the dislike for slavery, there is no mention of his memory and is therefore irrelevant. Answer chioce D however best represents the main idea.`
+
+
+- ![[Central Ideas Example 4.png]]
+	`For this question, in the first part of the passage it is stated that Margaret always had her meals with her father and mother. This shows that Margaret spend teh first nine years of her life with her father and mother. Although Edith is mentioned later in the passage, Margaret did not spend the first nine years of her lfie with Edith.`

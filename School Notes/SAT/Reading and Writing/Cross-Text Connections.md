@@ -38,3 +38,8 @@
 
 # Examples:
 
+- ![[Cross Text Connections Example 1.png]]
+	`Answer choice A is a trick answer. Answer choice A recycles language and Singh never talked about emphaizing the need to capture the extent to which climate change will impact nudibranchs. Instead, Singh highlights that there are multiple other factors that need to be considered which is why answer choice B makes the most sense. It is likely that Singh would respond to Text 1 by saying that it is oversimpified as in Singh's passage he mentions other factors such as pollution and habitat loss. `
+
+- ![[Cross Text Connections Example 2.png]]
+	`The first passage is talking about how a new tax should be levied while the second passage talks about hwo this shouldn't be the case and that every man should have their own option. This therefore shows how the second offers a rebuttal. Answer choice A is close as both passage offer different viewpoints but they do not support the same topic. `
