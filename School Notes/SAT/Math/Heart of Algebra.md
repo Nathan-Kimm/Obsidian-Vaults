@@ -1,0 +1,2 @@
+- ![[Heart of Algebra Example 1.png]]
+	`Even though water evaporates, the amount of glucose will stay the same. We can find the initial amount of glucose by doing 60 * 0.2 = 12 liters of glucose in the original solution. The amount of glucose will stay the same and therefore 12 liters must equal 30% in the new solution.` $12 * \frac {100} {30} = 40$ `Therefore the intiial volume is 60 liters and the new volume is 40 liters and therefore 20 liters of water must be evaporated.`  

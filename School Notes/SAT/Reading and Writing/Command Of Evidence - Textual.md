@@ -44,3 +44,6 @@
 
 - ![[COE Textual Example 4.png]]
 	`The passage needs a quotation that shows unfairness as well as Achilles' decision to cease fighting. Answer chioce C partially covers this as it shows how unfair it is but doesn't demonstrate the fight stopping. Therefore answer choice A would make the most sense as it shows Achilles withdrawing the fight and shows how unfair it is by saying "brimming your cup and piling up your plunder"`
+
+- ![[COE Textual Example 5.png]]
+	`Answer choice A doesn't work as it compares too much about what the Colossus of Rhodes wasn't and not comparing the two. Answer choice B isn't correct because it mainly only focuses on the status of liberty. Answer chioce D isn't right as it doesn't exactly contrast the two colossus. Answer choice C is the correct option. In answer choice C, it's like the Status of Libery saying goodbye to the old colussus: "Keep, ancient lands, your storied pomp." The answer choice then represents a shift from the old colossus to the new one as it states "Give me your tired, your poor"`
