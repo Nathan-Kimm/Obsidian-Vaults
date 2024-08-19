@@ -10,3 +10,6 @@
 
 - ![[Inference Example 4.png]]
 	`The passage mentions that while some regional dialects such as the deep south have diminished, others such as Boston or New York accents have gotten stronger. Therefore, mentioning how globalization has a varied impact would make the most sense in this context. Answer choice A doesn't work as well as it narrowly focuses on people resisting changes which is also not mentioned in the passage. Answer choice B also doesn't work because there is not evidence in the passage and answer choice C doesn't work because it is an assumption.`
+
+- ![[Inference Example 5.png]]
+	`The passage starts by discussing the common origin of various languages from Proto-Indo-European and then goes on to describe how these languages are different now. The examples in the passage of linguistic diversion are best explained by the idea that languages evolve through interactions with other languages and not just internal developments. Interaction with other languages can lead to the adoption of new sounds, words, and grammatical structure.`

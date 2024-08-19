@@ -77,3 +77,6 @@
 - ![[Boundaries Example 4.png]]
 	`A clause starting with since is not an independent clause and therefore a semi colon cannot be used. A comma should be used instead as it seperates the main clause from the supplementary clause. The main clause is "However, the original purpose of the brass studs was practical" The clause that comes after practical is supplmentary and is adding on. 
 
+- ![[Boundaries Example 5.png]]
+	`Answer choice C might not make much sense at first as "response; and vaccines" isn't usually allowed. However, this question is aiming to see if you can identify a complex list with internal punctuation. So if there are other semicolons that seem like they are separating a list, make sure to choose the right option.`
+

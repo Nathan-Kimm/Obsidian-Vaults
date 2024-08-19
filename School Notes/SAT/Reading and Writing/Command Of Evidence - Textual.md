@@ -47,3 +47,6 @@
 
 - ![[COE Textual Example 5.png]]
 	`Answer choice A doesn't work as it compares too much about what the Colossus of Rhodes wasn't and not comparing the two. Answer choice B isn't correct because it mainly only focuses on the status of liberty. Answer chioce D isn't right as it doesn't exactly contrast the two colossus. Answer choice C is the correct option. In answer choice C, it's like the Status of Libery saying goodbye to the old colussus: "Keep, ancient lands, your storied pomp." The answer choice then represents a shift from the old colossus to the new one as it states "Give me your tired, your poor"`
+
+- ![[COE Textual Example 6.png]]
+	`Answer choice A doesn't work as well as although it shows Mrs. Bennet talking about the advantages of the marriage, it doesn't necessarily show her boasting. Answer choice B also doesn't work because it does show Mrs. Bennet thinking about the rest of her family because of the marriage, it doesn't show her being arrogant. Answer choice C works best as it shows that Mrs. Bennet is a little condescending and boastful as she states "though evidently and triumphantly believing there was no chance of it."`

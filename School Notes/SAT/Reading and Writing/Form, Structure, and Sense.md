@@ -238,3 +238,13 @@ These adverbs are different from conjunctions because they cannot be used with a
 
 - ![[Form, Structure, and Sense Example 8.png]]
 	`In this question, the subject is "Geese flying in an aerodynamic V-formation" this subject is plural and therefore should match the plural verb of "provide." The subject is plural as it refers to multiple geese. `
+
+- ![[Form, Structure, and Sense Example 9.png]]
+	`Remember to always read the entire passage. "Clay tablet etchings display their sophisticated mathematical system" might make sense. But after reading the entire sentence "Clay tablets display their ... reveal a deep understanding" doesn't make much sense. Therefore display makes more sense.`
+	
+>[!NOTE]
+>Make sure to read the entire passage for every question!
+
+
+	
+	

@@ -43,3 +43,6 @@
 
 - ![[Words in Context Example 11.png]]
 	`Prefunctory suggests something was done without much care or interest and therefore would not work as the passage is saying that Sarah gave a compelling critique. Brazen implies boldness which also doesn't work in this context. Convival refers to a friendly, lively, and enjoyable atmosphere which also doesn't work best for describing a critique. Therefore, penetrating is the best answer as in this context demonstrates that the critique was very insightful and intense.`
+
+- ![[Words in Context Example 12.png]]
+	`Answer choice D doesn't work as it doesn't make much sense to say that the global market has risen in popularity. Therefore, the market rapidly growing would work better. `

@@ -25,3 +25,24 @@
 
 13. ![[Olivebook T4Q13 RW M2.png]]
 	`Read the question carefully, the question asks which quote would most challegne the underlined claim. Therefore, we want an answer that is not idiosyncratic (unique) and allows his work to be viewed through the lens of nationality. In this case, answer chioce D works best as it shows how it's not unique as it relies on a staple of Maya sculpture and allow classification as indigenous art. `
+
+
+# Math
+
+## Module 1
+
+19. ![[Olivebook T4Q19 M M1.png]]
+	`With this question, given that` $tan(B) = \frac 3 4$ `and BC = 15. This indicates a 3-4-5 triangle. Since 15 is 3 times 5 the other sides must fit this ratio. Therefore, AC must equal 9 and BA = 12. Since it is given that DA = 4 then DB = 8 since DA + DB must equal 12. Triangle BDE is also a 3-4-5 and since 8 is two times 4. Side DE must be 6.`
+
+## Module 2
+
+14. ![[Olivebook T4Q14 M M2.png]]
+	`If the average amount of time that 20 employees worked for the company is 6.7 years. This gives us a total of 20 * 6.7 = 134 years. If one employee left and the average dropped down to 6.25, this gives us 19 * 6.25 = 118.75. 134-118.72 = 15.25 and therefore the answer.`
+
+
+16. ![[Olivebook T4Q16 M M2.png]]
+	`This expression can be rewritten as` $(70n)^{\frac 1 5} ((70n)^{\frac 1 6})^2$ `After applying exponent rules this expression becomes` $(70n)^{\frac 1 5}(70n)^{\frac 1 3}$ `Since these 2 numbers have the same base this can be further rewritten into` $(70n)^{\frac 1 5 + \frac 1 3}$ `or` $(70n)^{\frac 8 {15}}$ `Since the question asks for what value of x is the expression equivalent. Then that means` $(70n)^{\frac 8 {15}} = (70n)^{30x}$  `Since they have the same base this means` $\frac 8 {15} = 30x$ `After simplifying this gives us that` $x = \frac 4 {225}$ 
+
+
+22. ![[Olivebook T4Q22 M M2.png]]
+	`The total amount, in liters, of a saline can be expressed as the liters of each type of saline solution multiplied by the percent concentration of the saline solution. x(0.25), 3(0.1), (x+3)(0.15), where x is the amount in liters. Since the question is asking how many liters of 25% saline solution must be added to 3 liters of 10% solution to get a 15% saline solution. This means that this equation must be valid:` $x(0.25) + 3(0.1) = (x+3)(0.15)$ `Simplifying this you get` $0.25x + 0.3 = 0.15x + 0.45$ `Further simplifying down to` $0.1x = 0.15$ `Giving us` $x = 1.5$ `Therefore, we would need 1.5 liters of 25% saline solution to obtin a 15% saline solution.`
