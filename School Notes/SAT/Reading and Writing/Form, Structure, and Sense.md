@@ -246,5 +246,5 @@ These adverbs are different from conjunctions because they cannot be used with a
 >Make sure to read the entire passage for every question!
 
 
-	
-	
+- ![[Formu Structure, and Sense Example 10.png]]
+	`Adapting is a present participle form of the verb and it is used for continuous actions or to describe something. Using the infinitive "to adapt" in this case would work better as it expresses the purpose of Kya's effort`

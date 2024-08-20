@@ -35,11 +35,9 @@
             "id": "a53e05d821bfac63",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "SAT/Math/Trigonometry.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Trigonometry Example 1.excalidraw.md"
               }
             }
           },
@@ -97,14 +95,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAT/Math/Percents and Ratios.md",
+                "file": "SAT/Reading and Writing/Command Of Evidence - Textual.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -170,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAT/Math/Trigonometry.md",
+                "file": "SAT/Reading and Writing/Command Of Evidence - Textual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAT/Math/Trigonometry.md",
+                "file": "SAT/Reading and Writing/Command Of Evidence - Textual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAT/Math/Trigonometry.md"
+                "file": "SAT/Reading and Writing/Command Of Evidence - Textual.md"
               }
             }
           }
@@ -233,35 +231,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a53e05d821bfac63",
+  "active": "d22d5c12d7ff411a",
   "lastOpenFiles": [
-    "SAT/Math/Geometry.md",
-    "SAT/Reading and Writing/Inference.md",
-    "Screenshots/SAT Screenshots/Reading Writing Notes/Inference Example 5.png",
-    "SAT/Reading and Writing/Boundaries.md",
-    "Screenshots/SAT Screenshots/Reading Writing Notes/Boundaries Example 5.png",
+    "Screenshots/SAT Screenshots/Reading Writing Notes/COE Textual Example 7.png",
+    "SAT/Reading and Writing/Text Structure and Purpose.md",
+    "Screenshots/SAT Screenshots/Reading Writing Notes/Text Structure and Purpose Example 7.png",
+    "Screenshots/SAT Screenshots/Reading Writing Notes/Text Structure and Purpose Example 6.png",
+    "Screenshots/SAT Screenshots/Reading Writing Notes/Text Structure and Purpose Example Answers.png",
+    "Screenshots/SAT Screenshots/Reading Writing Notes/Text Structure and Purpose Example Passage.png",
     "SAT/Reading and Writing/Form, Structure, and Sense.md",
-    "Screenshots/SAT Screenshots/Reading Writing Notes/Form, Structure, and Sense Example 9.png",
-    "Screenshots/SAT Screenshots/Reading Writing Notes/Form, Structure, and Sense Example 8.png",
-    "Screenshots/SAT Screenshots/Math Notes/Geometry Example 1.png",
-    "SAT/Math/Trigonometry.md",
-    "SAT/Math/Coordinate Plane.md",
-    "Screenshots/SAT Screenshots/Math Notes/Coordinate Plane Example 1.png",
-    "SAT/Reading and Writing/Words In Context.md",
-    "Screenshots/SAT Screenshots/Reading Writing Notes/Words in Context Example 12.png",
-    "Screenshots/SAT Screenshots/Reading Writing Notes/Words in Context Example 11.png",
-    "SAT/Reading and Writing/Rhetorical Synthesis.md",
-    "Screenshots/SAT Screenshots/Reading Writing Notes/Rhetorical Synthesis Example 3.png",
-    "Screenshots/SAT Screenshots/Reading Writing Notes/Rhetorical Synthesis Example 2.png",
+    "SAT/Reading and Writing/Inference.md",
+    "SAT/Reading and Writing/Command Of Evidence - Quantitative.md",
+    "SAT/Practice Review/Olivebook Practice 1.md",
+    "Excalidraw/Trigonometry Example 1.excalidraw.md",
+    "SAT/Math/Percents and Ratios.md",
     "SAT/Reading and Writing/Command Of Evidence - Textual.md",
+    "Screenshots/SAT Screenshots/Reading Writing Notes/Inference Example 6.png",
+    "SAT/Reading and Writing/Transitions.md",
+    "SAT/Reading and Writing/Boundaries.md",
+    "Screenshots/SAT Screenshots/Reading Writing Notes/Transitions Example 2.png",
+    "Screenshots/SAT Screenshots/Reading Writing Notes/Form, Structure, and Sense Example 9.png",
+    "Screenshots/SAT Screenshots/Reading Writing Notes/Formu Structure, and Sense Example 10.png",
+    "Screenshots/SAT Screenshots/Reading Writing Notes/Text Structure and Purpose Example 5.png",
+    "Screenshots/SAT Screenshots/Reading Writing Notes/Text Structure and Purpose Example 4.png",
+    "SAT/Math/Trigonometry.md",
+    "SAT/Math/Geometry.md",
+    "SAT/Math/Coordinate Plane.md",
+    "SAT/Reading and Writing/Words In Context.md",
+    "SAT/Reading and Writing/Rhetorical Synthesis.md",
     "SAT/Practice Review/Olivebook Practice 4.md",
     "SAT/Practice Review/Olivebook Practice 2.md",
     "SAT/Reading and Writing/Central Ideas and Details.md",
     "SAT/Math/Heart of Algebra.md",
-    "SAT/Math/Percents and Ratios.md",
     "SAT/Math/Advanced Math.md",
     "SAT/Math/Math.md",
-    "Excalidraw/Trigonometry Example 1.excalidraw.md",
     "Untitled",
     "Excalidraw",
     "Screenshots/SAT Screenshots/Math Notes",
@@ -270,12 +273,8 @@
     "Programming/ML and AI",
     "Programming/Web Development/Full Stack Open/Notes Page.md",
     "Web Development.md",
-    "SAT/Reading and Writing/Cross-Text Connections.md",
-    "SAT/SAT Notes.md",
     "Screenshots/SAT Screenshots/Olivebook Practice/Test 4",
     "Screenshots/SAT Screenshots/Olivebook Practice/Test 2",
-    "SAT/Practice Review/Olivebook Practice 1.md",
-    "SAT/Practice Review/Practice Review.md",
     "Screenshots/SAT Screenshots/Reading Writing Notes",
     "Screenshots/SAT Screenshots/Olivebook Practice/Test 1",
     "Screenshots/SAT Screenshots/Olivebook Practice",

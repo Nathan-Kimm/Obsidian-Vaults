@@ -40,3 +40,7 @@
 		- A cannot be correct as the sentence doesn't have an example of          the previous sentence
 		- C cannot be correct as equally would mean that the sentence             shows information just as important
 		- D cannot be correct as granted is used when admitting something
+
+
+- ![[Transitions Example 2.png]]
+	`In this question, a dash is correctly used to set off a clause that explains or describes the one before it. Answer choice a is not correct as it causes a comma splice. `

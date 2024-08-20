@@ -13,3 +13,6 @@
 
 - ![[Inference Example 5.png]]
 	`The passage starts by discussing the common origin of various languages from Proto-Indo-European and then goes on to describe how these languages are different now. The examples in the passage of linguistic diversion are best explained by the idea that languages evolve through interactions with other languages and not just internal developments. Interaction with other languages can lead to the adoption of new sounds, words, and grammatical structure.`
+
+- ![[Inference Example 6.png]]
+	`In the sentence it already states after a long period of wandering, so writing "where they had been years earlier" isn't the best option. More specifically, the prehistoric humans came back to where they had dropped those seeds and those seeds have now grown to find plants.`

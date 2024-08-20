@@ -50,3 +50,8 @@
 
 - ![[COE Textual Example 6.png]]
 	`Answer choice A doesn't work as well as although it shows Mrs. Bennet talking about the advantages of the marriage, it doesn't necessarily show her boasting. Answer choice B also doesn't work because it does show Mrs. Bennet thinking about the rest of her family because of the marriage, it doesn't show her being arrogant. Answer choice C works best as it shows that Mrs. Bennet is a little condescending and boastful as she states "though evidently and triumphantly believing there was no chance of it."`
+
+
+- ![[COE Textual Example 7.png]]
+	`Answer choice B is correct as if Homo Erectus were present as far south as Tanzania it would directly support the team's conclusion. `
+	https://sat.magoosh.com/answers/580957525?review%5Bafter%5D=2024-08-19+17%3A42%3A14+-0300

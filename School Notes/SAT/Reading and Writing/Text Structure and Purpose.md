@@ -76,3 +76,12 @@
 
 - ![[Text Structure and Purpose Example 4.png]]
 	`In this question, although Mrs. Dalloway's reflection is a contrast between the party. It is not the main purpose of the text. Instead, the main purpose is to reveal Mrs. Dalloway's awareness of her pass as she states "She realizes how these past experiences are inseperable from her current self."`
+
+- ![[Text Structure and Purpose Example 5.png]]
+	`Answer choice C is incorrect as the poem does not primarily contrast mundane aspects of daily lfie with the act of declaring love. The focus is more on the speaker's internal struggles rather than drawing a contrast. Therefore, answer choice A is correct as the text reflects mainly on time and the procrastination involved with large lfie decisions as seen by "And time yet for a hundred indecisions, And for a hundred visions and revisions."`
+
+- ![[Text Structure and Purpose Example 6.png]]
+	`For these questions look at what majority of the passage is talking about. In this passage, although the first couple setences establish a contrast. This is only a small part of the passage and the main part of the passage explains Diantha's view of her mother.`
+
+- ![[Text Structure and Purpose Example 7.png]]
+	`Choice C is incorrect as the underlined portion is not contrasting against the peaceful world of books. Answer choice A is best as the highlighted sentence demonstrates the significance of the peace and quiet she has in her house in an otherwise chaotic world.`
