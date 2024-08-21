@@ -43,3 +43,6 @@
 
 - ![[Cross Text Connections Example 2.png]]
 	`The first passage is talking about how a new tax should be levied while the second passage talks about hwo this shouldn't be the case and that every man should have their own option. This therefore shows how the second offers a rebuttal. Answer choice A is close as both passage offer different viewpoints but they do not support the same topic. `
+
+- ![[Cross Text Connections Example 3.png]]
+	`https://sat.magoosh.com/answers/581040589?review%5Bafter%5D=2024-08-20+10%3A09%3A16+-0300`

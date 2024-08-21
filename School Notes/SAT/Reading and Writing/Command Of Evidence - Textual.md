@@ -55,3 +55,12 @@
 - ![[COE Textual Example 7.png]]
 	`Answer choice B is correct as if Homo Erectus were present as far south as Tanzania it would directly support the team's conclusion. `
 	https://sat.magoosh.com/answers/580957525?review%5Bafter%5D=2024-08-19+17%3A42%3A14+-0300
+
+
+- ![[COE Textual Example 8.png]]
+	`Although answer choice A does show a bond between the marines, it doesn't demonstrate that these bonds are created through their time during the USMC Recruit Training Program. Answer choice B better demonstrates this as it shows how at the beginning of the program they worked independelty but later on they did more collaborative work which demonstrates that they've grown a bond as they have gone through the program.`
+
+
+- ![[COE Textual Example 9.png]]
+	`Although the passage says "comparing them to pie-crusts" none of the answer choices specifically mention a pie crust. However, you want to look for an answer that resembles pie cruts best. Therefore, answer choice A works best. Answer choice A basically states "lets not make any promises so we never break them" as can be seen by "Promise me no promises." This shows how fragile promises really are similar to how fragile pie crusts are. Answer choice D doesn't work as well as it doesn't specifically highlight the fragileness of promises like answer choice A.`
+https://sat.magoosh.com/answers/581054761?review%5Bafter%5D=2024-08-20+11%3A42%3A38+-0300

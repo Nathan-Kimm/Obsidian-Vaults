@@ -2,5 +2,5 @@
 
 - [ ] Do some SAT Practice
 
-# [[SAT Notes]]
+# [[SAT/SAT Notes]]
 # [[]]
